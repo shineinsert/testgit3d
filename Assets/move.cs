@@ -10,4 +10,7 @@ public class move : MonoBehaviour {
 		transform.position +=
 			new Vector3 (Input.GetAxis ("Horizontal"), 0, 0);
 	}
+	void Input(){
+		
+	}
 }
